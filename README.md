@@ -1,4 +1,4 @@
-# Dynamic Pro Scraper 💎
+# Dynamic Business Scraper 💎
 
 A professional Python-based web scraper designed to generate high-quality business leads. It dynamically scrapes Google Maps for businesses in a specific niche and then performs "skiptracing" to identify decision-makers (Owners, CEOs, Founders) using sources like the BBB, Yellow Pages, and company websites.
 
